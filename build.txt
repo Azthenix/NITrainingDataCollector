@@ -1,0 +1,3 @@
+displayName = NI Training Data Collector
+author = CA
+version = 0.1
